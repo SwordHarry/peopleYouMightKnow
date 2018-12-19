@@ -1,0 +1,6 @@
+com\csu\domain\FriendMap.class
+com\csu\domain\FriendReduce$1.class
+com\csu\domain\FriendReduce.class
+com\csu\domain\FriendReduce$2.class
+com\csu\domain\FriendCountWritable.class
+com\csu\App.class
